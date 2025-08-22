@@ -17,8 +17,8 @@ const FacebookCover = () => {
               <div className="w-12 h-12 bg-gradient-primary rounded-xl flex items-center justify-center shadow-elegant border-2 border-primary/20">
                 <span className="text-primary-foreground font-black text-2xl">R</span>
               </div>
-              <div className="w-12 h-12 bg-accent rounded-xl flex items-center justify-center shadow-elegant border-2 border-accent/20">
-                <span className="text-accent-foreground font-black text-2xl">N</span>
+              <div className="w-12 h-12 bg-gradient-primary rounded-xl flex items-center justify-center shadow-elegant border-2 border-primary/20">
+                <span className="text-primary-foreground font-black text-2xl">N</span>
               </div>
             </div>
             <h1 className="text-2xl font-bold text-foreground">RELIABLE</h1>
